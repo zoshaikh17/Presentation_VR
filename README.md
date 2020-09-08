@@ -48,10 +48,10 @@ The below picture show the corrected image that is presented,
  A person little ability to see can cross the road and also drive.
  It may be confusing to see shrunken picture. 
  The gaze actions makes it eligible to identify several disorders such as vertigo, or eye movement disorders (Interacoustics).
-
-
-
-
-
+ 
+ ## Conclusion
+ In this paper, two solutions were presented to help impaired vision and especially peripheral vision loss people using two different techniques; augmented and virtual reality.
+ This paper described the hardware design of the augmented reality prototype. However, theye are still working on reducing the distance between the eyes and the screen and to
+ provide a depth of field and emulate 3D objects using two displays units to work as real human vision.
 
 
