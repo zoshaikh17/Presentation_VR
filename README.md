@@ -1,4 +1,4 @@
-# Presentation_VR
+# Virtual Reality Presentation
 
 ## Overview
 Low vision can affect anyone at any age and it includes different degrees of sight loss from having blind spots, poor night vision, and problems with glare to almost a complete 
