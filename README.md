@@ -20,3 +20,7 @@ The second solution is to bring what the patient is missing and display it in hi
 processing to analyses the video stream captured by an embedded camera inside the glasses frame.
 
 ### Solution 1
+It consists of two main parts, eyeglasses and wristband. Glasses consist of a camera unit to detect the surrounding environment and send a real-time video to Microcontroller unit
+to perform some pre-processing for the video stream, and transparent OLED for display purposes. Video streams then to pass to the main processing unit which is Nvidia Jetson TK1
+board that is responsible for image processing tasks such as face detection and object tracking.  The final output is sent to the transparent organic light emitting diode (TOLED)
+display unit.
