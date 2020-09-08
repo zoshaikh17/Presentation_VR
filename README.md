@@ -45,7 +45,7 @@ The below picture show the corrected image that is presented,
 
 ## Strengths and Weakness
  Its ability to track all eye movements.
- A person little ability to see can cross the road and also drive.
+ A person little little ability to see can cross the road and also drive.
 
 It may be confusing to see shrunken picture. 
 The gaze actions makes it eligible to identify several disorders such as vertigo, or eye movement disorders (Interacoustics).
