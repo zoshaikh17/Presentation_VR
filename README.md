@@ -35,6 +35,12 @@ regular and fisheye lenses.
 ![Solution2a](https://user-images.githubusercontent.com/55362861/92490487-b61e4380-f1b6-11ea-926f-b28b1b023bd9.PNG)
 ![Solution2b](https://user-images.githubusercontent.com/55362861/92490488-b6b6da00-f1b6-11ea-8893-67f7a8ae22ef.PNG)
 
+The final step is to minimize the corrected image and present it the patient’s healthy area (central vision), which gives the patient the ability to see the full picture of the 
+surrounding area.
+
+The below picture show the corrected image that is presented,
+
+
 
 
 
