@@ -40,6 +40,8 @@ surrounding area.
 
 The below picture show the corrected image that is presented,
 
+![corrected image](https://user-images.githubusercontent.com/55362861/92502912-1ec0ec80-f1c6-11ea-8d16-b5233e475775.PNG)
+
 
 
 
