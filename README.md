@@ -24,3 +24,11 @@ It consists of two main parts, eyeglasses and wristband. Glasses consist of a ca
 to perform some pre-processing for the video stream, and transparent OLED for display purposes. Video streams then to pass to the main processing unit which is Nvidia Jetson TK1
 board that is responsible for image processing tasks such as face detection and object tracking.  The final output is sent to the transparent organic light emitting diode (TOLED)
 display unit.
+
+
+### Solution 2
+The second proposed solution is a complete virtual reality model that prevent the patient from seeing real scenes and replace the actual picture with computer generated one. The
+idea is to use the healthy area and try to present the complete image (central +peripheral) in it. Two cameras are capturing a complete image to be viewed by patient’s eyes. The 
+paper suggest using fisheye lenses to capture wider view and then correcting the images to a straight one (Rectilinear conversion). The figure below shows a comparison between
+regular and fisheye lenses.
+
