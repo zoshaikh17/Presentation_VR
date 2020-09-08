@@ -5,4 +5,4 @@ Low vision can affect anyone at any age and it includes different degrees of sig
 loss of sight, and cannot normally be treated. Peripheral vision loss is one of the main visual field’s problems where patients can see through their central area only in a way
 that makes their daily life activities such as driving and crossing the road very hard. 
 
-![1] (example.png)
+https://github.com/zoshaikh17/Presentation_VR/blob/master/example.PNG
