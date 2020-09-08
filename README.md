@@ -9,3 +9,7 @@ This is how a person with peripheral vision loss can see.
 
 ![example](https://user-images.githubusercontent.com/55362861/92481480-07750580-f1ac-11ea-9dfa-f3a86e25a516.PNG)
 
+Virtual reality (VR) and augmented reality (AR) are both technologies that have been used to provide computer-generated information for users. In virtual reality, user usually 
+wears googles to see complete artificial scene and interact with its elements without the ability to distinguish between real and artificial ones. In augmented reality, user is 
+still seeing real scene with some artificial elements augmented to it.
+
