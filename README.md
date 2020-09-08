@@ -32,3 +32,7 @@ idea is to use the healthy area and try to present the complete image (central +
 paper suggest using fisheye lenses to capture wider view and then correcting the images to a straight one (Rectilinear conversion). The figure below shows a comparison between
 regular and fisheye lenses.
 
+![Solution2a](https://user-images.githubusercontent.com/55362861/92490487-b61e4380-f1b6-11ea-926f-b28b1b023bd9.PNG)
+![Solution2b](https://user-images.githubusercontent.com/55362861/92490488-b6b6da00-f1b6-11ea-8893-67f7a8ae22ef.PNG)
+
+
